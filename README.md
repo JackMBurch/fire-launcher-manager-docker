@@ -24,5 +24,4 @@ This project is designed to solve issues with [launcher manager](https://xdaforu
 
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
 * [u/socramdavid](https://www.reddit.com/r/fireTV/comments/zf4y1y/workaround_to_remap_remote_keys/)
