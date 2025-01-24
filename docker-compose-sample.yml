@@ -1,0 +1,8 @@
+services:
+  home:
+    build: ./
+    environment:
+      - FIRE_IP=192.168.1.X # Replace with the local IP of your Fire TV stick
+      - FIRE_PORT=5555 # Optional; default is 5555
+      - FIRE_LAUNCHER=com.amazon.tv.leanbacklauncher/.MainActivity # Optional; the launcher used, default is leanbacklauncher
+    restart: 'unless-stopped'
